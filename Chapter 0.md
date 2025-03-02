@@ -1,7 +1,7 @@
 # Chapter 0 Contents
 
 ## 
-![已上传的图片](./assets/9rk6fqHRfpQ%3D.png)
+![已上传的图片](assets/9rk6fqHRfpQ%3D.png)
 
 ![已上传的图片](./assets/file-7vuDmuNbzaJ9yz2cC3Wuepse=2025-03-01T03%3A51%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740032047202.png)
 
