@@ -2,9 +2,9 @@
 
 
 
-![已上传的图片](./assets/file-QaLm31UVRoipeWGvgzwn21se=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492282962.png)
+![image-20250303210633196](./assets/image-20250303210633196.png)
 
-![已上传的图片](./assets/LNGAUm6Y6yAUwfwSK4FiJUg2JBUj8%3D.png)
+![image-20250303210636671](./assets/image-20250303210636671.png)
 
 # START
 
@@ -126,11 +126,11 @@
 
 以上内容即为对本次课件截图的完整笔记与解析。阅读此笔记后，即使没有课本作为辅助，也能理解云计算硬件和软件栈的背景、核心思路以及后续章节的逻辑安排。
 
-# **4.1** Cloud infrastructure challenges![已上传的图片](./assets/file-CoSSbCsFwgQ9cSi3YTBGYQse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492293436.png)
+# **4.1** Cloud infrastructure challenges![image-20250303210703907](./assets/image-20250303210703907.png)
 
-![已上传的图片](./assets/file-WEUpAdhipEzooNtk3yTX81se=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492299338.png)
+![image-20250303210707231](./assets/image-20250303210707231.png)
 
-![已上传的图片](./assets/file-U5HuZFjD8VkQxZfwwAy6arse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492304316.png)
+![image-20250303210710308](./assets/image-20250303210710308.png)
 
 
 
@@ -268,11 +268,11 @@
 
 # **4.2** Cloud hardware; warehouse-scale computer (WSC)
 
-![image-20250225213729815](./assets/image-20250225213729815-1740494255794-1.png)
+![image-20250303210754581](./assets/image-20250303210754581.png)
 
 ![image-20250225213746828](./assets/image-20250225213746828-1740494274382-3.png)
 
-![image-20250225213757615](./assets/image-20250225213757615-1740494279278-5.png)
+![image-20250303210758811](./assets/image-20250303210758811.png)
 
 **1\. 标题：云硬件与仓库级计算机（WSC）概述**  
 本部分主要介绍了仓库级计算机（WSC，Warehouse-Scale Computer）在云计算中的关键地位，以及云数据中心硬件在网络层次、内存层次和处理器选择方面所面临的设计与性能挑战。透过对内存层级、带宽、延迟以及“brawny”和“wimpy”处理器的讨论，我们能够更好地理解WSC的整体架构和工程考量。
@@ -391,16 +391,16 @@
 
 * * *
 
-## **4.3** WSC performance
+# **4.3** WSC performance
 
 ## 
-![已上传的图片](./assets/H16X9taFpw%3D.png)
+![image-20250303210810186](./assets/image-20250303210810186.png)
 
-![已上传的图片](./assets/file-1iMsK2KrDa16fXCY49tpD3se=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492349755.png)
+![image-20250303210812584](./assets/image-20250303210812584.png)
 
-![已上传的图片](./assets/file-738BLwmumW8NDWE2ZREw7mse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492354826.png)
+![image-20250303210815092](./assets/image-20250303210815092.png)
 
-![已上传的图片](./assets/file-UbxGP27AGJTwEsVMQM5zDxse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492359621.png)
+![image-20250303210817463](./assets/image-20250303210817463.png)
 
 
 
@@ -531,7 +531,7 @@
 通过以上笔记，读者可对WSC性能分析有系统了解：从真实负载采样与RPC“架构税”，到微架构层面的缓存失效与流水线停顿，再到Top-Down诊断方法。这些要点共同构成了云应用在超大规模系统中面临的主要瓶颈与优化空间。
 
 # **4.4** Hypervisors
-![已上传的图片](./assets/file-65YFzc3tdHbwApZRGMvfxmse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492395635.png)
+![image-20250303210825678](./assets/image-20250303210825678.png)
 
 
 
@@ -638,9 +638,9 @@
 以上即为本次关于Hypervisor技术原理与应用的完整笔记。它为了解虚拟化在云计算中的多租户隔离、安全、资源调度和性能优化提供了基础。
 
 # **4.5** Execution of coarse-grained data-parallel applications
-![已上传的图片](./assets/file-1axbdMZC4QGasatfFpnhEsse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492453647.png)
+![image-20250303210831303](./assets/image-20250303210831303.png)
 
-![已上传的图片](./assets/file-8FEJyGMNdSh9ad8NmCXjN1se=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492457835.png)
+![image-20250303210829297](./assets/image-20250303210829297.png)
 
 **1\. 标题：基于SPMD范式的粗粒度数据并行与典型框架：MapReduce、Hadoop与Dryad**
 
@@ -739,9 +739,9 @@
 
 # **4.6** Fine-grained cluster resource sharing in Mesos
 
-![已上传的图片](./assets/mL2c8%3D.png)
+![image-20250303210837794](./assets/image-20250303210837794.png)
 
-![已上传的图片](./assets/file-FX7wnLo4h1xSRC44rqaBncse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492501772.png)
+![image-20250303210840504](./assets/image-20250303210840504.png)
 
 
 
@@ -857,13 +857,13 @@
 从以上内容可见，Mesos 的设计理念在云环境下针对多租户、大规模混合负载有显著优势，既能提升集群利用率，又保留了各框架独立调度与隔离的灵活性。
 
 # **4.7** Cluster management with Borg
-![已上传的图片](./assets/file-GChKmwYzKnikeT5cUR2okAse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492537593.png)
+![image-20250303210845700](./assets/image-20250303210845700.png)
 
 ![已上传的图片](./assets/file-Kdcke9xoZPuyzHLbLtCW6Fse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492541645.png)
 
-![已上传的图片](./assets/file-XTU5Mgv37jxVNaxL3vWd6nse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492546052.png)
+![image-20250303210849181](./assets/image-20250303210849181.png)
 
-![已上传的图片](./assets/5Elx22z57ZELUvfi5LcnkiwlglauJyhkG4%3D.png)
+![image-20250303210852128](./assets/image-20250303210852128.png)
 
 
 
@@ -977,9 +977,9 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 通过上述解析，读者能够充分理解谷歌 Borg 系统在云环境下实现高可用、弹性调度和高资源利用率的关键思路与技术细节。
 
 # **4.8** Evolution of a cluster management system
-![已上传的图片](./assets/file-LNv2nXmZYcRL9ZJq2gZLZLse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492593714.png)
+![image-20250303210855696](./assets/image-20250303210855696.png)
 
-![已上传的图片](./assets/file-NuG3V8pqwn71pjWPwciB9Vse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492598972.png)
+![image-20250303210858905](./assets/image-20250303210858905.png)
 
 
 
@@ -1093,11 +1093,11 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 以上笔记综合了本段内容中的数据、对比和关键结论，帮助读者深入了解大规模集群调度系统在多年演进过程中的挑战与应对思路。
 
 # 4.9 **Shared state cluster management**
-![已上传的图片](./assets/file-UQaaHHH86cUZD3SdQAwpfqse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492630962.png)
+![image-20250303210903525](./assets/image-20250303210903525.png)
 
-![已上传的图片](./assets/AtKKsQeAm1hPX7aDRnWzl6hpak%3D.png)
+![image-20250303210905800](./assets/image-20250303210905800.png)
 
-![已上传的图片](./assets/BLkG1Ii8Uj2RfHst8SXZEs%3D.png)
+![image-20250303210909225](./assets/image-20250303210909225.png)
 
 
 
@@ -1226,13 +1226,13 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 # 4.10 QoS-aware cluster management
 
-![已上传的图片](./assets/file-UzXfdt7H7xNHm2v2W21kYGse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492664555.png)
+![image-20250303210912459](./assets/image-20250303210912459.png)
 
-![已上传的图片](./assets/%2Busg%3D.png)
+![image-20250303210914607](./assets/image-20250303210914607.png)
 
-![已上传的图片](./assets/6n6FdBhUw3T%2Bsu77rQiD7M2BZ9EWKr3MbIg%3D.png)
+![image-20250303210916981](./assets/image-20250303210916981.png)
 
-![已上传的图片](./assets/k%3D.png)
+![image-20250303210919434](./assets/image-20250303210919434.png)
 
 
 
@@ -1355,15 +1355,15 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 # **4.11** Resource isolation
 
-![已上传的图片](./assets/file-K2XSvVyndn6wYMaKvXuxQDse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492707881.png)
+![image-20250303210947188](./assets/image-20250303210947188.png)
 
-![已上传的图片](./assets/vCtVbYE0ZYblFr00HYuRwtgje67fOo8%3D.png)
+![image-20250303210949428](./assets/image-20250303210949428.png)
 
-![已上传的图片](./assets/ClvAwQf8YPXsec43wli2fIa0P3Z%2B5ejo%3D.png)
+![image-20250303210951722](./assets/image-20250303210951722.png)
 
-![已上传的图片](./assets/3CKxb4k%3D.png)
+![image-20250303210954075](./assets/image-20250303210954075.png)
 
-![已上传的图片](./assets/7scFvvDrnC1xzlKH9h8KRD1MOlXQgcfE%3D.png)
+![image-20250303210956376](./assets/image-20250303210956376.png)
 
 
 
@@ -1489,15 +1489,15 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 # **4.12**.1 In-memory cluster computing for Big Data
 
-![已上传的图片](./assets/2MmzMCw4qvItescccTG7sac2dmaeqFULWz15bLs%3D.png)
+![image-20250303211001005](./assets/image-20250303211001005.png)
 
-![已上传的图片](./assets/file-WFzB2Q6b8shTTErWMwTkPtse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492782977.png)
+![image-20250303211003057](./assets/image-20250303211003057.png)
 
-![已上传的图片](./assets/U%3D.png)
+![image-20250303211005107](./assets/image-20250303211005107.png)
 
-![已上传的图片](./assets/FlnWp504f9PQeGSBXIM%3D.png)
+![image-20250303211012706](./assets/image-20250303211012706.png)
 
-![已上传的图片](./assets/file-CAzqdgKEGcJsKa9MGwngW1se=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492824252.png)
+![image-20250303211015035](./assets/image-20250303211015035.png)
 
 
 
@@ -1642,15 +1642,15 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 通过以上笔记，读者可系统理解 Spark、Tachyon 等内存计算系统如何加速大数据应用，并掌握其核心抽象（RDD、Lineage）与在容错、存储分层以及迭代计算方面的关键机制与实践价值。
 
 # **4.12**.2 In-memory cluster computing for Big Data
-![已上传的图片](./assets/wCPjuZzHNQOl1lFSmb8%3D.png)
+![image-20250303211019588](./assets/image-20250303211019588.png)
 
-![已上传的图片](./assets/file-DmKDJuQhakhBdeiXksPVQdse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492866832.png)
+![image-20250303211021895](./assets/image-20250303211021895.png)
 
-![已上传的图片](./assets/file-QbVbJHrfKqE6KhMfLd7oMxse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492871312.png)
+![image-20250303211024118](./assets/image-20250303211024118.png)
 
-![已上传的图片](./assets/file-4rxspVaMa6BdH3ugZ6sFTase=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492875221.png)
+![image-20250303211026514](./assets/image-20250303211026514.png)
 
-![已上传的图片](./assets/%2BEY%3D.png)
+![image-20250303211033951](./assets/image-20250303211033951.png)
 
 ## Prompt:
 已推理，持续 几秒
@@ -1794,11 +1794,11 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 # **4.13** Containers; Docker containers
 
-![已上传的图片](./assets/DoxUpA4Dax7Hk%3D.png)
+![image-20250303211038698](./assets/image-20250303211038698.png)
 
-![已上传的图片](./assets/H1tDrQ8I2wxxvUbThUL%2Bqesr2v8htBZKAtU%3D.png)
+![image-20250303211041325](./assets/image-20250303211041325.png)
 
-![已上传的图片](./assets/file-1oxD5qrXF19G92aeKwWjTQse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492904518.png)
+![image-20250303211043767](./assets/image-20250303211043767.png)
 
 
 
@@ -1915,9 +1915,9 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 # **4.14** Kubernetes
 
-![已上传的图片](./assets/file-P89Wxn5wCt3gXKKgMS3aUyse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492952844.png)
+![image-20250303211047348](./assets/image-20250303211047348.png)
 
-![已上传的图片](./assets/9xSrvpob25n7zT90tUD4Xs%2B7pz4yI%2B7FfE%3D.png)
+![image-20250303211049399](./assets/image-20250303211049399.png)
 
 
 
@@ -2047,9 +2047,9 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 # **4.15** Further readings
 
-![已上传的图片](./assets/file-GEY7SXL25zUybjznevVRafse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492964525.png)
+![image-20250303211052778](./assets/image-20250303211052778.png)
 
-![已上传的图片](./assets/avQX0Q%3D.png)
+![image-20250303211054553](./assets/image-20250303211054553.png)
 
 
 
@@ -2129,11 +2129,11 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 # **4.16** Exercises and problems
 
-![已上传的图片](./assets/file-KGf5ewN8zm2jj3Q8H9ad3ise=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740493012006.png)
+![image-20250303211058992](./assets/image-20250303211058992.png)
 
-![已上传的图片](./assets/21C2t8VasOrW8Os%3D.png)
+![image-20250303211100990](./assets/image-20250303211100990.png)
 
-![已上传的图片](./assets/N7d7oe7NYgwa6HqI2DKQ6zVs%2BizILnlhdrB0%3D.png)
+![image-20250303211103318](./assets/image-20250303211103318.png)
 
 
 

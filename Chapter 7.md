@@ -1,9 +1,9 @@
 # Chapter 7 Cloud data storage
 
 ## 
-![已上传的图片](./assets/file-HTC3Kv4ntjgHcEkrmie2QSse=2025-03-01T03%3A30%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740712142718-1740799764920-59-1740799914084-1.png)
+![image-20250303211447070](./assets/image-20250303211447070.png)
 
-![已上传的图片](./assets/file-CyseFPRhD3JdXawdm2ksTsse=2025-03-01T03%3A30%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740712146707-1740799914085-2.png)
+![image-20250303211449949](./assets/image-20250303211449949.png)
 
 
 
@@ -85,9 +85,9 @@
 以上即为本次图片全部内容的详细笔记与分析。通过这些要点可以了解到云端数据存储在当代的核心作用、发展历程以及后续章节将要讨论的关键主题，从而为进一步深入学习云计算和大数据技术打下坚实基础。
 
 # **7.1** **Dynamic random access memories and hard disk drives**
-![已上传的图片](./assets/afKpLiy4Tg%3D-1740799914085-3.png)
+![image-20250303211507639](./assets/image-20250303211507639.png)
 
-![已上传的图片](./assets/file-Wj3ZjPWLymDkFNZfTxWXstse=2025-03-01T03%3A30%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740712165294-1740799914085-4.png)
+![image-20250303211510618](./assets/image-20250303211510618.png)
 
 
 
@@ -172,13 +172,13 @@
 以上笔记涵盖了从 DRAM、HDD 的发展历程到大数据背景下对存储系统的需求转变，阐述了在云计算时代各类存储技术面临的机遇与挑战，帮助读者在后续学习中更好地理解和运用相关知识。
 
 # **7.2** **Solid-state disks**
-![已上传的图片](./assets/tXkO4CiS2Bh4vxgvFl7le0q2sb4KCJkvC13jE%3D-1740799914085-5.png)
+![image-20250303211514110](./assets/image-20250303211514110.png)
 
 ![已上传的图片](./assets/LL4c6nzFs%3D-1740799914085-6.png)
 
-![已上传的图片](./assets/bc%3D-1740799914085-7.png)
+![image-20250303211518728](./assets/image-20250303211518728.png)
 
-![已上传的图片](./assets/bBiCVRhHDrfuJP3LlEMFcMK2XNWE7g%3D-1740799914085-8.png)
+![image-20250303211527017](./assets/image-20250303211527017.png)
 
 
 
@@ -370,11 +370,11 @@
 通过本次笔记可以理解固态硬盘在硬件结构、闪存技术、接口并发能力等层面的关键特征，以及 SSD 对大规模存储系统所带来的变革性影响——它不仅在性能方面领先传统 HDD，也在云计算、大数据和企业存储领域不断替代或与 HDD 混合形成新的存储形态。
 
 # **7.3** **Storage models, file systems, and databases**
-![已上传的图片](./assets/file-CvkYP7bu1SrmxkvwetsA42se=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713005588-1740799914085-9.png)
+![image-20250303211533163](./assets/image-20250303211533163.png)
 
-![已上传的图片](./assets/file-LwKAo1SQQtXKjuimZyr3Eqse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713010081-1740799914085-10.png)
+![image-20250303211536725](./assets/image-20250303211536725.png)
 
-![已上传的图片](./assets/QCGmURYRZNLV0%3D-1740799914085-11.png)
+![image-20250303211539824](./assets/image-20250303211539824.png)
 
 
 
@@ -501,11 +501,11 @@
 以上笔记详细覆盖了本节内容，帮助我们从最底层的存储模型一路了解到高层数据库系统在云计算环境中的运作机制和挑战，为理解云端数据管理和后续章节（如分布式事务、NoSQL 具体实现等）奠定了理论基础。
 
 # **7.4**.1 **Distributed file systems; the precursors**
-![已上传的图片](./assets/file-H1wVADn5rzHb8gJArFnBDase=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713049076-1740799914085-12.png)
 
-![已上传的图片](./assets/fgCcph4gk%3D-1740799914085-15.png)
 
-![已上传的图片](./assets/file-E86HB9tuN2mXK7Vn2TJm69se=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713059134-1740799914085-14.png)
+![image-20250303211549899](./assets/image-20250303211549899.png)
+
+![image-20250303211552572](./assets/image-20250303211552572.png)
 
 
 
@@ -610,11 +610,11 @@
 通过对本节的学习，可以深刻理解NFS从UFS继承而来的分层架构，以及在网络环境下为分布式文件共享进行的改进和设计取舍。这为后续深入研究更先进的分布式文件系统（AFS、GFS等）奠定了基础。
 
 # **7.4**.2 **Distributed file systems; the precursors**
-![已上传的图片](./assets/4%3D-1740799914085-13.png)
+![image-20250303211557362](./assets/image-20250303211557362.png)
 
-![已上传的图片](./assets/file-XL4kd1mbAkn7ssnoLmvXhtse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713128546-1740799914085-16.png)
+![image-20250303211600023](./assets/image-20250303211600023.png)
 
-![已上传的图片](./assets/file-XBUM17ZPzfZ94V8RtzjzEkse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713133275-1740799914085-17.png)
+![image-20250303211602265](./assets/image-20250303211602265.png)
 
 
 
@@ -767,14 +767,13 @@
 通过对这几个分布式文件系统的比较，能更加全面地理解分布式文件共享面临的挑战，也为后续研究更新一代的分布式文件系统（如 GFS、HDFS 等）打下技术背景。
 
 # **7.5** **General parallel file system**
-![已上传的图片](./assets/file-P5uEq5fMkPpHoBnwE6twKtse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713182636-1740799914085-18.png)
+![image-20250303211609146](./assets/image-20250303211609146.png)
 
 ![已上传的图片](./assets/e20PRz%2BsjQVBoE%3D-1740799914085-19.png)
 
-![已上传的图片](./assets/file-6eyKe2NBtD6AU7MSK9ouT7se=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713191554-1740799914085-20.png)
+![image-20250303211611838](./assets/image-20250303211611838.png)
 
-## Response:
-Razonado sobre sistemas de archivos distribuidos，持续 几秒
+
 
 **1\. 标题：通用并行文件系统与 IBM GPFS：大规模并行 I/O 的核心架构与锁管理**
 
@@ -893,11 +892,11 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 综上所述，GPFS 作为典型的通用并行文件系统，在大规模场景下成功平衡了性能、可扩展性与数据一致性，对现代分布式存储系统的设计具有重要启示意义。
 
 # **7.6** **Google file system**
-![已上传的图片](./assets/file-P6Jq4FT82ZGEoHp3gZVvWWse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713232801-1740799914085-21.png)
+![image-20250303211620900](./assets/image-20250303211620900.png)
 
-![已上传的图片](./assets/97v5w%3D-1740799914085-22.png)
+![image-20250303211623390](./assets/image-20250303211623390.png)
 
-![已上传的图片](./assets/file-G6iiCc6mr8kdHhWD1ksbjPse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713242510-1740799914085-23.png)
+![image-20250303211625424](./assets/image-20250303211625424.png)
 
 ## 
 **1\. 标题：Google File System (GFS) 体系结构与核心机制：大规模分布式存储的里程碑设计**
@@ -1046,11 +1045,11 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 通过以上总结可见，GFS 以其独特的大块设计、主-从架构、原子追加与高容错特性，为现代大规模分布式文件系统奠定了重要基础。
 
 # **7.7**.1 **Locks; Chubby—a locking service**
-![已上传的图片](./assets/7nezTcCJ5j1rjo%3D-1740799914085-24.png)
+![image-20250303211631550](./assets/image-20250303211631550.png)
 
-![已上传的图片](./assets/tquPbriSayVkW4Ni7DtOmIEbxN5K3tDD8jhdvUtk%3D-1740799914085-25.png)
+![image-20250303211629355](./assets/image-20250303211629355.png)
 
-![已上传的图片](./assets/file-D4hGfre6QxcKNNmUyuuoXrse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713358625-1740799914085-26.png)
+![image-20250303211636878](./assets/image-20250303211636878.png)
 
 
 
@@ -1171,11 +1170,11 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 通过本节内容可见，在分布式环境中，对锁和共识的恰当设计与实现是构建大规模可靠存储和服务的基石。Chubby 也成为后来许多类似系统（如 Apache ZooKeeper）的重要启示。
 
 # **7.7.2** **Locks; Chubby—a locking service**
-![已上传的图片](./assets/file-QtLTZSAHuZAQuK9SPxCy6nse=2025-03-01T03%3A30%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713378196-1740799914085-27.png)
+![image-20250303211641040](./assets/image-20250303211641040.png)
 
-![已上传的图片](./assets/file-Ur8ThmeZN2kEnkmtj9ZdRRse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713383124-1740799914085-28.png)
+![image-20250303211642740](./assets/image-20250303211642740.png)
 
-![已上传的图片](./assets/PbI%3D-1740799914085-29.png)
+![image-20250303211646745](./assets/image-20250303211646745.png)
 
 ![已上传的图片](./assets/wt4hO91QYFrBFuUDeFcjfrB9QHbp4ORItAiUpc%3D-1740799914085-30.png)
 
@@ -1295,9 +1294,9 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 通过这部分的学习，可以看到 Chubby 通过“服务化”封装了分布式共识算法，大大简化了应用在大规模集群中进行锁管理、配置存储和主从选举的复杂性，是 Google 内部分布式系统的关键基石之一。
 
 # **7.8** **RDBMS—cloud mismatch**
-![已上传的图片](./assets/YhFAfAPMpkZ3fzU8gwLtmS09k%2BjiBPfgQr0%3D-1740799914085-32.png)
+![image-20250303211652431](./assets/image-20250303211652431.png)
 
-![已上传的图片](./assets/E9Xs30%2BRVXREGSrbh4Vi5Xc3Y%3D-1740799914085-31.png)
+![image-20250303211654377](./assets/image-20250303211654377.png)
 
 
 
@@ -1411,11 +1410,11 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 以上就是对于第 7.8 节“RDBMS 与云环境的不匹配”全部内容的笔记和深入分析。该节为理解后续“为什么云环境下大量采用 NoSQL、NewSQL、分布式数据库系统”的重要背景铺垫。
 
 # **7.9** **NoSQL databases**
-![已上传的图片](./assets/file-AZGT2HitYjJUq6srVG1gG5se=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713412973-1740799914085-33.png)
+![image-20250303211658614](./assets/image-20250303211658614.png)
 
-![已上传的图片](./assets/iIZoK6HcAIe0IurY%3D-1740799914085-34.png)
+![image-20250303211700574](./assets/image-20250303211700574.png)
 
-![已上传的图片](./assets/4%2B24ztu0Tx5trFLg0fFRlgapUDrU%3D-1740799914085-35.png)
+![image-20250303211704094](./assets/image-20250303211704094.png)
 
 ## 
 **1\. 标题：NoSQL 数据库：分布式可扩展性与多样化数据模型的崛起**
@@ -1546,14 +1545,11 @@ Razonado sobre sistemas de archivos distribuidos，持续 几秒
 通过这部分的学习，可以更好地理解为什么云时代需要 NoSQL 数据库，以及它们如何在分布式场景下通过削弱传统数据库的强一致特性换取大规模可扩展性与高可用性。
 
 # **7.10** **Data storage for online transaction processing systems**
-![已上传的图片](./assets/file-D4Vitw5VU4krXvR7Jno2pUse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713459169-1740799914085-36.png)
+![image-20250303211710313](./assets/image-20250303211710313.png)
 
-![已上传的图片](./assets/file-Ch3LnwT3EP7FdR7b7zeZLWse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713463532-1740799914085-37.png)
+![image-20250303211711880](./assets/image-20250303211711880.png)
 
-![已上传的图片](./assets/file-SDdykus6EUCVP3Ey8no8bQse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713468105-1740799914085-38.png)
-
-## Response:
-Reasoned about NoSQL数据库与传统关系型数据库的对比，持续 一秒
+![image-20250303211714527](./assets/image-20250303211714527.png)
 
 **1\. 标题：云端OLTP数据存储：高并发、低延迟与多数据库融合**
 
@@ -1657,11 +1653,11 @@ Reasoned about NoSQL数据库与传统关系型数据库的对比，持续 一�
 通过这些要点可以更好地理解为什么云环境下需要将传统RDBMS与新型NoSQL、分布式缓存等多种方式结合使用，从而在海量请求中实现可扩展的在线事务处理。
 
 # **7.11** **BigTable**
-![已上传的图片](./assets/fuM%3D-1740799914085-39.png)
+![image-20250303211723308](./assets/image-20250303211723308.png)
 
-![已上传的图片](./assets/ydxbQAWg%3D-1740799914085-40.png)
+![image-20250303211725646](./assets/image-20250303211725646.png)
 
-![已上传的图片](./assets/file-HuY9MGk8Cg6k5cKnLEjDPfse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713525201-1740799914085-41.png)
+![image-20250303211727942](./assets/image-20250303211727942.png)
 
 ## 
 1\. 标题：分布式数据库一致性模型：CAP理论与分布式事务的挑战
@@ -1786,9 +1782,9 @@ Reasoned about NoSQL数据库与传统关系型数据库的对比，持续 一�
 通过本节，可以清晰理解 BigTable 在数据组织、分区与复制等方面的创新，如何满足大规模云服务对高吞吐量和灵活数据模型的需求，也为后续学习其他类似列式数据库（如 Cassandra、HBase）奠定了重要思想基础。
 
 # **7.12** **Megastore**
-![已上传的图片](./assets/file-QYsuKfDo8svyfL8NN2k4M3se=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713668218-1740799914085-42.png)
+![image-20250303211731017](./assets/image-20250303211731017.png)
 
-![已上传的图片](./assets/xaitoJIn3KTDmKI%3D-1740799914085-43.png)
+![image-20250303211735610](./assets/image-20250303211735610.png)
 
 ## Response:
 对不起，我无法继续提供解答。如果您有其他问题需要帮助，请告诉我！，持续 几秒
@@ -1913,15 +1909,15 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 综上，Megastore 的设计理念在互联网巨头大规模应用中发挥了关键作用，也启发了后来许多“**NewSQL**”系统的出现，为在分布式环境中同时追求 ACID 事务与弹性扩展提供了可行路径。
 
 # **7.13**.1 **Storage reliability at scale**
-![已上传的图片](./assets/file-Vn2JdrenXzFiipxZSAbmFmse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713734369-1740799914085-44.png)
+![image-20250303211740618](./assets/image-20250303211740618.png)
 
-![已上传的图片](./assets/file-MikVUbJU59qKteyckGHgsyse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713739402-1740799914085-45.png)
+![image-20250303211742972](./assets/image-20250303211742972.png)
 
-![已上传的图片](./assets/Dh1Pd80JB%2BoijPbqQ6cIOZRV9CU7en8NY8MMtdE38%3D-1740799914085-46.png)
+![image-20250303211745352](./assets/image-20250303211745352.png)
 
-![已上传的图片](./assets/file-CugVhY4XFtXD7rvcp69TTcse=2025-03-01T03%3A30%3A20Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713749234-1740799914085-47.png)
+![image-20250303211748869](./assets/image-20250303211748869.png)
 
-![已上传的图片](./assets/file-WsB1ABLtXSD1EngHDqP4D1se=2025-03-01T03%3A30%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713755123-1740799914085-48.png)
+![image-20250303211752115](./assets/image-20250303211752115.png)
 
 
 
@@ -2034,13 +2030,14 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 综上，Dynamo 系列系统让高可用和扩展性成为数据存储的首要目标，通过牺牲部分实时一致性获得极强的容错与拓展能力，为许多大规模应用场景提供了高可靠且低延迟的存储方案。
 
 # **7.13.2** **Storage reliability at scale**
-![已上传的图片](./assets/file-K52rPQWu7wcFDVZ2k7rEL1se=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage-1740799914085-49.png)
+![image-20250303211757384](./assets/image-20250303211757384.png)
 
-![已上传的图片](./assets/file-FzQqwtTCrr9JMNdGo9agwtse=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713789275-1740799914085-50.png)
+![image-20250303211800623](./assets/image-20250303211800623.png)
 
-![已上传的图片](./assets/1Nce2Mew2D8wY13vOeHDAM%3D-1740799914085-51.png)
+![image-20250303211802941](./assets/image-20250303211802941.png)
 
-## Response:
+
+
 1\. 标题：分布式数据库中的一致性策略：Cassandra与其高可用性设计
 
 **1\. 标题：数据中心环境下的本地性与内存缓存：提高吞吐与降低延迟的关键思考**
@@ -2160,11 +2157,11 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 通过这些要点可见，随着数据中心网络与硬件技术不断演进，传统的“数据就近计算”原则正发生微妙变化；将内存作为大规模缓存乃至分布式内存池来加速数据访问，或许才是提升云环境下大数据作业效率的关键思路之一。
 
 # **7.14** **Disk locality versus data locality in computer clouds**
-![已上传的图片](./assets/file-EA6uTJi1oEUUfscCtMjo8Xse=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713960005-1740799914085-52.png)
+![image-20250303211822792](./assets/image-20250303211822792.png)
 
-![已上传的图片](./assets/file-9Pn1Z1SU6g9aNsXKyLhSBTse=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740713965357-1740799914085-53.png)
+![image-20250303211824829](./assets/image-20250303211824829.png)
 
-![已上传的图片](./assets/uTQn3qrJT0naxFTJ0%3D-1740799914085-54.png)
+![image-20250303211827344](./assets/image-20250303211827344.png)
 
 ## Response:
 1\. 标题：流式计算与实时数据处理：优化大数据分析架构的关键设计考虑
@@ -2302,11 +2299,11 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 综上所述，本节强调在云端分布式系统里，传统的“磁盘本地性”思路正被高速网络、内存缓存与动态任务调度所颠覆。未来的数据中心可能更依赖网络+内存以快速访问分散各处的数据，从而在大规模数据处理场景下赢得更佳的吞吐与更低的延迟。
 
 # **7.15** **Database provenance**
-![已上传的图片](./assets/vNaS3EDqPm2hkEbEJHdI%3D-1740799914085-55.png)
+![image-20250303211832597](./assets/image-20250303211832597.png)
 
-![已上传的图片](./assets/file-LYBZdiJvTaoovsppKsgYSzse=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740798999838-1740799914085-56.png)
+![image-20250303211834641](./assets/image-20250303211834641.png)
 
-![已上传的图片](./assets/file-84PSgj5muYJ5biRM5oB3Vise=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740799004734-1740799914085-57.png)
+![image-20250303211837252](./assets/image-20250303211837252.png)
 
 
 
@@ -2441,10 +2438,10 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 
 * * *
 
-![image-20250301104117406](./assets/image-20250301104117406.png)
+![image-20250303211841415](./assets/image-20250303211841415.png)
 ----------
 
-![image-20250301104125246](./assets/image-20250301104125246.png)
+![image-20250303211843510](./assets/image-20250303211843510.png)
 
 **1\. 标题：分布式文件系统与数据库发展历史简述及推荐阅读**
 
@@ -2550,7 +2547,7 @@ Megastore 是 Google 内部广泛使用的可扩展在线服务存储系统。�
 
 
 # **7.17** **Exercises and problems**
-![已上传的图片](./assets/X2pMHWnwbg7y85mnq3NvXo2FQ%3D-1740799914085-58.png)
+![image-20250303211847648](./assets/image-20250303211847648.png)
 
 ![已上传的图片](./assets/file-CuNDsBhwbEGcLkQjJ5WEzXse=2025-03-01T03%3A30%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740799037446-1740799914085-59.png)
 

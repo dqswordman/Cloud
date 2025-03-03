@@ -1,9 +1,9 @@
 # CHAPTER 5 Cloud resource virtualization
 
 ## 
-![已上传的图片](./assets/bz4jawY%3D.png)
+![image-20250303211114950](./assets/image-20250303211114950.png)
 
-![已上传的图片](./assets/file-4GTFJyF71cjsKgv49153Yise=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211118206](./assets/image-20250303211118206.png)
 
 # Start
 
@@ -149,9 +149,9 @@ _——至此，本次课件截图对应的笔记内容全部结束——_
 
 # 5.1 Resource virtualization
 
-![已上传的图片](./assets/INrQ%3D.png)
+![image-20250303211121714](./assets/image-20250303211121714.png)
 
-![已上传的图片](./assets/mAc8CxEiqGVB%2BqvArAsEEvTadmTZsNerUpHnfSoU%3D.png)
+![image-20250303211124120](./assets/image-20250303211124120.png)
 
 
 
@@ -246,9 +246,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.2 Performance and security isolation in computer clouds
 
-![已上传的图片](./assets/U%3D-1740917127648-163.png)
+![image-20250303211128457](./assets/image-20250303211128457.png)
 
-![已上传的图片](./assets/K8WqiLUmAfCfQpdRvVN9SM%3D.png)
+![image-20250303211130593](./assets/image-20250303211130593.png)
 
 
 
@@ -338,9 +338,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.3 Virtual machines
 
-![已上传的图片](./assets/CkURcijPFgV6b9dQk%3D.png)
+![image-20250303211134513](./assets/image-20250303211134513.png)
 
-![已上传的图片](./assets/file-Qp6y8mqTTMUT3cXZ4M9CZAse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211137468](./assets/image-20250303211137468.png)
 
 
 
@@ -455,9 +455,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 
 
-![已上传的图片](./assets/hD4x5dr2OJb%2BQwWT2c%3D.png)
+![image-20250303211143731](./assets/image-20250303211143731.png)
 
-![已上传的图片](./assets/file-YMN5SwY7rynzQcGbpNXpSBse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211148850](./assets/image-20250303211148850.png)
 
 
 
@@ -563,13 +563,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.5 Hardware support for virtualization
 
-![已上传的图片](./assets/bXRtNlxk055M%2Bj%2Bo%3D.png)
+![image-20250303211151959](./assets/image-20250303211151959.png)
 
-![已上传的图片](./assets/file-Py2n1ySYkyRwdDDuYfn627se=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211153970](./assets/image-20250303211153970.png)
 
-![已上传的图片](./assets/file-LdU8LBJJ89ywHBHU6KNopcse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211157856](./assets/image-20250303211157856.png)
 
-![已上传的图片](./assets/file-7guAMDLa6pyg3icpEk13ZCse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211201037](./assets/image-20250303211201037.png)
 
 
 
@@ -722,9 +722,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.6 QEMU
 
-![已上传的图片](./assets/file-8GvHu96bHGh1WoW3YXCDSKse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211209567](./assets/image-20250303211209567.png)
 
-![已上传的图片](./assets/5uXNs%2B8W4%3D.png)
+![image-20250303211211997](./assets/image-20250303211211997.png)
 
 
 
@@ -837,13 +837,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.7 Kernel-based Virtual Machine
 
-![已上传的图片](./assets/8pxg%3D.png)
+![image-20250303211215787](./assets/image-20250303211215787.png)
 
-![已上传的图片](./assets/DhwWVZbSmdZY%2ByBrr1v7cJnYZ5m8uJSaAE%3D.png)
+![image-20250303211217935](./assets/image-20250303211217935.png)
 
-![已上传的图片](./assets/MY4%3D.png)
+![image-20250303211222918](./assets/image-20250303211222918.png)
 
-![已上传的图片](./assets/CKbsUUiPE7leNw%3D.png)
+![image-20250303211226955](./assets/image-20250303211226955.png)
 
 
 
@@ -949,13 +949,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # **5.8.1** Xen—a hypervisor based on paravirtualization
 
-![image-20250225221822180](./assets/image-20250225221822180.png)
+![image-20250303211231738](./assets/image-20250303211231738.png)
 
 ![已上传的图片](./assets/file-7tCowBi1Nqqo8PyjmACALRse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
 
-![已上传的图片](./assets/file-KFYb1MaTDcPY2RrhZTYqYGse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211235206](./assets/image-20250303211235206.png)
 
-![已上传的图片](./assets/aUZTYr2aiC3Q7xjeJs%3D.png)
+![image-20250303211238407](./assets/image-20250303211238407.png)
 
 
 
@@ -1068,13 +1068,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.8.2 Xen—a hypervisor based on paravirtualization
 
-![已上传的图片](./assets/file-JCi8rPBgZUt5yiekoiVGz7se=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211241404](./assets/image-20250303211241404.png)
 
-![已上传的图片](./assets/YC6d2dRAReKEfQ%3D.png)
+![image-20250303211243602](./assets/image-20250303211243602.png)
 
-![已上传的图片](./assets/jfZO1mVYObFpEjKeDzWjM2eY9te1SZo378%3D.png)
+![image-20250303211246374](./assets/image-20250303211246374.png)
 
-![已上传的图片](./assets/BGg03D27qI%3D.png)
+![image-20250303211249030](./assets/image-20250303211249030.png)
 
 
 
@@ -1197,11 +1197,11 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.9 Optimization of network virtualization in Xen 2.0
 
-![已上传的图片](./assets/sgD07yT0CgKlZA%3D.png)
+![image-20250303211255682](./assets/image-20250303211255682.png)
 
-![已上传的图片](./assets/jgRP4%3D.png)
+![image-20250303211258726](./assets/image-20250303211258726.png)
 
-![已上传的图片](./assets/file-VqcNrZDHSWNzKjRtJMhP3Gse=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211301292](./assets/image-20250303211301292.png)
 
 
 
@@ -1317,13 +1317,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.10 Nested virtualization
 
-![已上传的图片](./assets/file-RhRDG4MkJZpRKFH1ncubGLse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211305619](./assets/image-20250303211305619.png)
 
-![已上传的图片](./assets/file-V6DHJ4VTbh89jApB9zRCgbse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211307845](./assets/image-20250303211307845.png)
 
-![已上传的图片](./assets/file-Jvsb3549YJNEQN7LsCWcQase=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211311481](./assets/image-20250303211311481.png)
 
-![已上传的图片](./assets/fyJArRQ7OZQGU1pU2b7MSoOk0dau8%3D.png)
+![image-20250303211314430](./assets/image-20250303211314430.png)
 
 
 
@@ -1574,13 +1574,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.12 Paravirtualization of Itanium architecture
 
-![已上传的图片](./assets/BO7XlK8FfUpFLMxuoZ4mUsgC9Ow0HMLQ%3D.png)
+![image-20250303211319757](./assets/image-20250303211319757.png)
 
-![已上传的图片](./assets/file-EAoMY2t45aqgvBSSVLqShcse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211322659](./assets/image-20250303211322659.png)
 
-![已上传的图片](./assets/CfcgzccrLkHc%3D.png)
+![image-20250303211325502](./assets/image-20250303211325502.png)
 
-![已上传的图片](./assets/file-HCkVPF6p1SQbY7bTrkMpAase=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211328119](./assets/image-20250303211328119.png)
 
 
 
@@ -1716,13 +1716,13 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.13 A performance comparison of virtual machines
 
-![已上传的图片](./assets/file-5fCApNXwJToDeAPhgG1ABUse=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211331756](./assets/image-20250303211331756.png)
 
-![已上传的图片](./assets/thEqHxI%3D.png)
+![image-20250303211334090](./assets/image-20250303211334090.png)
 
-![已上传的图片](./assets/file-JXen168b7NAHQTzyhvFsdKse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211336597](./assets/image-20250303211336597.png)
 
-![已上传的图片](./assets/wRI%3D.png)
+![image-20250303211338866](./assets/image-20250303211338866.png)
 
 
 
@@ -1856,11 +1856,11 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.14 Open-source software platforms for private clouds
 
-![已上传的图片](./assets/file-Mhwv4NjSb5fLYSnMBdGPzvse=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211342268](./assets/image-20250303211342268.png)
 
-![已上传的图片](./assets/file-Mg2GLRnABGxWinwUtoB9fqse=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211346589](./assets/image-20250303211346589.png)
 
-![已上传的图片](./assets/file-Nkh8eV4kNEmf2DaZX9PP9jse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![已上传的图片](./assets/image-20250303211350761.png)
 
 
 
@@ -2007,9 +2007,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.15 The darker side of virtualization
 
-![已上传的图片](./assets/file-6KDhe3CpFbEpCbSa7U1H41se=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211354618](./assets/image-20250303211354618.png)
 
-![已上传的图片](./assets/O9SiPNq%2BmBLFYWNgjOA%3D.png)
+![image-20250303211357936](./assets/image-20250303211357936.png)
 
 
 
@@ -2113,12 +2113,11 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.16 Virtualization software
 
-![已上传的图片](./assets/9iwMXeY%3D.png)
+![image-20250303211403621](./assets/image-20250303211403621.png)
 
-![已上传的图片](./assets/rol5rHs1fdXRoyij58w9Q9MmxsBzvk%3D.png)
+![image-20250303211405966](./assets/image-20250303211405966.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：多样化的虚拟化软件生态：原生型与宿主型 Hypervisor 的主要代表**  
 本节（5.16）对市面上不同形式的虚拟化软件及常见产品进行简要介绍。根据 Hypervisor 的实现方式和依赖关系，可分为\*\*原生（bare-metal）**和**宿主型（hosted）\*\*两大类。此外，还提及了一些专用场景或特定架构下的虚拟化解决方案，如面向嵌入式和实时系统的 XtratuM，以及针对 macOS、PowerPC、L4 微内核环境等的若干特化虚拟化软件。
@@ -2206,9 +2205,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.17 History notes and further readings
-![已上传的图片](./assets/file-PVueyeBFpPC8qNyzbXvBaJse=2025-02-25T15%3A16%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211416853](./assets/image-20250303211416853.png)
 
-![已上传的图片](./assets/iErlwUYrfQ8uG84M6YSFzM%2B7o%3D.png)
+![image-20250303211418996](./assets/image-20250303211418996.png)
 
 
 
@@ -2295,9 +2294,9 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 _——至此，本次课件截图对应的笔记内容讲解完毕——_
 
 # 5.18 Exercises and problems
-![已上传的图片](./assets/file-Y6VPmfZ4qm1jnaB5dsXXGyse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211423621](./assets/image-20250303211423621.png)
 
-![已上传的图片](./assets/file-Jnrpbw3ctG2Qh5Kd3SZ4sUse=2025-02-25T15%3A16%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303211425828](./assets/image-20250303211425828.png)
 
 
 
@@ -2540,5 +2539,4 @@ _——至此，本次课件截图对应的笔记内容讲解完毕——_
 在作答时，可结合书中对应章节（例如 5.2、5.4、5.12、5.13）的案例与表格（如表5.2、5.3）进行更详实的数据引用和举例说明。若需进一步扩展，可参考官方文献、论文及在线社区资源进行深入探究。
 
 _——本章习题解析到此结束，祝学习顺利！——_
-
 
