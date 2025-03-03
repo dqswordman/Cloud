@@ -175,9 +175,9 @@
 
 ![img](./assets/NJ3AKZY6ABAGQ.png)
 
-![img](http://www.kdocs.cn/api/v3/office/copy/bHAzNGVNY3NFdEgxU2cyT00zUXhYQVNPQW9qUFFCWW1KUHVMbGNjUytNZVFwWDFCZFc2dHNPb3BrODZCczF4cHdQNjVLTVZRUnhlRWlNMTNxR1Z3eXJHdEJzSnNRSFVyVEl0c1JGVGdjNU82dXNpaFpLWlIyeFNQV0l1NXJFd0hVbXhVMk8vejhqdTdxSVdEbFRtdjNmYTMyRnczc3A4RXJwYWxaUS93Qnp1RW5kRm1mTEU5VVdENllWR2JWcnVhaHJYK3Fkd3dXWXRPckhPSVEwdXEyOWRodGx1WGN1ODFVWmVoZUpoMlk1L3JqQ0NISEdsMjNlSEtmcm93UDJGSk9BQ0tyNGdBc3lnPQ==/attach/object/HCAAKZY6ABAAO?)
+![image-20250303085253778](./assets/image-20250303085253778-1740966775746-1.png)
 
-![img](http://www.kdocs.cn/api/v3/office/copy/bHAzNGVNY3NFdEgxU2cyT00zUXhYQVNPQW9qUFFCWW1KUHVMbGNjUytNZVFwWDFCZFc2dHNPb3BrODZCczF4cHdQNjVLTVZRUnhlRWlNMTNxR1Z3eXJHdEJzSnNRSFVyVEl0c1JGVGdjNU82dXNpaFpLWlIyeFNQV0l1NXJFd0hVbXhVMk8vejhqdTdxSVdEbFRtdjNmYTMyRnczc3A4RXJwYWxaUS93Qnp1RW5kRm1mTEU5VVdENllWR2JWcnVhaHJYK3Fkd3dXWXRPckhPSVEwdXEyOWRodGx1WGN1ODFVWmVoZUpoMlk1L3JqQ0NISEdsMjNlSEtmcm93UDJGSk9BQ0tyNGdBc3lnPQ==/attach/object/D6DQKZY6AAQEI?)
+![image-20250303085304487](./assets/image-20250303085304487-1740966786665-3.png)
 
 **第3.1节：计算机体系结构概念**
 
@@ -505,8 +505,7 @@ $$
 
 ![img](./assets/SEBAOZY6ACACC.png)
 
-## Prompt:
-已推理，持续 几秒
+
 
 **3.2 体系结构中的重大复杂性：内存层次结构与缓存设计**
 
@@ -1555,8 +1554,7 @@ $$
 
 ![img](./assets/ATLQ2ZY6ADQH4.png)
 
-## Response:
-已推理，持续 一秒
+
 
 **3.9 加速比、Amdahl定律与扩展加速比**
 

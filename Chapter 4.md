@@ -533,8 +533,7 @@
 # **4.4** Hypervisors
 ![已上传的图片](./assets/file-65YFzc3tdHbwApZRGMvfxmse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492395635.png)
 
-## Prompt:
-已推理，持续 几秒
+
 
 **1\. 标题：Hypervisor（虚拟机监控器）的原理与关键技术**  
 本部分介绍了Hypervisor在云计算环境中的角色及其核心机制，包括如何将物理硬件安全地分区给多个虚拟机（VM），并保障它们之间的隔离与资源调度。通过理解Hypervisor的工作流程，我们能更深入了解云上多租户隔离、动态迁移（live migration）以及内存虚拟化等关键技术。
@@ -643,9 +642,6 @@
 
 ![已上传的图片](./assets/file-8FEJyGMNdSh9ad8NmCXjN1se=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492457835.png)
 
-## Prompt:
-已推理，持续 4 秒
-
 **1\. 标题：基于SPMD范式的粗粒度数据并行与典型框架：MapReduce、Hadoop与Dryad**
 
 本部分讨论了如何利用粗粒度数据并行（coarse-grained data-parallelism）来高效处理海量数据集，重点介绍了SPMD（Same-Program-Multiple-Data）模型的核心思想，以及MapReduce、Hadoop和Dryad等框架在云端大规模任务中的应用与演进。
@@ -747,8 +743,7 @@
 
 ![已上传的图片](./assets/file-FX7wnLo4h1xSRC44rqaBncse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492501772.png)
 
-## Prompt:
-已推理，持续 7 秒
+
 
 **1\. 标题：Mesos 在细粒度集群资源共享中的机制与实践**  
 本部分重点介绍了由加州大学伯克利分校团队开发的轻量级调度系统 Mesos，及其在大规模集群下的细粒度资源共享（fine-grained cluster resource sharing）理念。通过 Mesos 的“两级调度”模式、资源 offer 概念以及与各类框架（Hadoop、MPI 等）的集成方式，我们能深入了解为何 Mesos 对多框架、混合负载的集群具有灵活可扩展的调度能力。
@@ -870,8 +865,7 @@
 
 ![已上传的图片](./assets/5Elx22z57ZELUvfi5LcnkiwlglauJyhkG4%3D.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：Borg 集群管理：谷歌内部大规模调度系统的设计与要点**  
 本部分聚焦于谷歌开发的集群管理软件 **Borg**，从系统架构、核心组件、调度流程以及实际运维效率等方面进行了介绍。Borg 是谷歌面向数万台服务器（WSC 级别）的关键生产调度系统，具备高可靠性、高可用性以及对多种工作负载（生产环境和批处理）的统一管理能力。
@@ -987,8 +981,7 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 ![已上传的图片](./assets/file-NuG3V8pqwn71pjWPwciB9Vse=2025-02-25T14%3A32%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492598972.png)
 
-## Prompt:
-已推理，持续 几秒
+
 
 **1\. 标题：集群管理系统的演进：Borg 调度策略在 2011～2019 年间的演化与资源利用分析**  
 本部分探讨了谷歌 Borg 在近十年（2011–2019）间如何优化大规模数据中心的调度效率与资源利用率。通过对历年集群追踪数据（trace data）的对比分析，可以看出硬件规模、软件特性及工作负载模式的变化对调度算法和系统吞吐量的影响。
@@ -1106,8 +1099,7 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 ![已上传的图片](./assets/BLkG1Ii8Uj2RfHst8SXZEs%3D.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：Omega 多调度器架构与共享状态管理：云端集群调度的新思路**  
 本部分介绍了谷歌提出的 **Omega** 体系结构，其核心在于允许多个独立的调度器基于共享的全局集群状态并行进行资源分配，从而摆脱单一或两级调度的局限。Omega 通过“乐观并发控制”方式在大规模、混合工作负载环境下，实现更灵活、高效的资源利用和调度决策。
@@ -1242,8 +1234,7 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 ![已上传的图片](./assets/k%3D.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：面向云端服务质量（QoS）的集群管理：工作负载分类与 Quasar 系统解析**  
 本部分聚焦于在云环境中实现高效且可保证服务质量（QoS）的集群管理方法，提出了工作负载分类（workload classification）的核心思路，以及通过代表性系统 **Quasar** 来说明如何将资源分配、资源调度与性能需求（SLO）紧密结合。
@@ -1374,8 +1365,7 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 ![已上传的图片](./assets/7scFvvDrnC1xzlKH9h8KRD1MOlXQgcfE%3D.png)
 
-## Prompt:
-已推理，持续 6 秒
+
 
 **1\. 标题：面向延迟敏感与批处理混合负载的资源隔离——Heracles 系统及其机制**
 
@@ -1509,8 +1499,7 @@ Borg 的成功经验也影响了谷歌后来的系统（Omega、Kubernetes）以
 
 ![已上传的图片](./assets/file-CAzqdgKEGcJsKa9MGwngW1se=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492824252.png)
 
-## Prompt:
-已推理，持续 几秒
+
 
 **1\. 标题：面向大数据的内存化集群计算：Spark 与 Tachyon（Alluxio）概述**  
 本部分介绍了大数据场景下通过内存化（in-memory）技术来加速数据密集型应用的关键思想，主要以 **Spark**（及其 RDD 模型）和 **Tachyon**（后更名为 Alluxio）为代表，探讨如何通过分布式内存与容错机制实现对迭代型/交互式工作负载的高效处理。
@@ -1811,8 +1800,7 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 ![已上传的图片](./assets/file-1oxD5qrXF19G92aeKwWjTQse=2025-02-25T14%3A32%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740492904518.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：容器技术与 Docker 生态：轻量化应用隔离与云端落地**
 
@@ -1931,8 +1919,7 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 ![已上传的图片](./assets/9xSrvpob25n7zT90tUD4Xs%2B7pz4yI%2B7FfE%3D.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：Kubernetes：面向容器的模块化编排与扩展性集群管理**  
 本部分介绍了 **Kubernetes**——一个由 Google 开源的容器编排系统，用于在集群环境中自动部署、调度、扩容并管理容器化应用。Kubernetes（常被简称为 “K8s”）通过抽象出 Pods、Services、ReplicationControllers 等核心概念，极大简化了多容器协同、滚动升级、资源伸缩与高可用的实现方式。
@@ -2064,8 +2051,7 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 ![已上传的图片](./assets/avQX0Q%3D.png)
 
-## Prompt:
-已推理，持续 一秒
+
 
 **1\. 标题：本章拓展阅读与云计算研究前沿**  
 在本小节中，作者列出了一系列关于云计算与大规模系统管理的参考文献与资源，涵盖亚马逊、微软、谷歌等主要云服务商的研究成果与系统实现，也包括多所高校（如伯克利、斯坦福、哈佛）在集群管理、容器化与云能耗分析等方面的前沿探索。这些参考信息有助于读者在本章内容之外，进一步深入云计算关键技术及学术研究热点。
@@ -2149,8 +2135,7 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 
 ![已上传的图片](./assets/N7d7oe7NYgwa6HqI2DKQ6zVs%2BizILnlhdrB0%3D.png)
 
-## Prompt:
-已推理，持续 4 秒
+
 
 **1\. 标题：云计算集群管理与性能分析综合练习题详解**  
 本节列出了围绕本章核心内容（云端 CPU 利用率、集群管理系统、容器与调度机制等）的综合性思考题与探讨题，涵盖理论分析、实验观察以及对文献内容的归纳理解。下面将按照题号逐一对题意进行梳理，并给出思路、要点和建议解答方向，帮助读者巩固学习效果、开拓思路。
@@ -2391,8 +2376,3 @@ Tachyon 旨在为大数据应用提供**高吞吐量的内存级存储**，同�
 *   在云计算实际工作或研究中，这些问题都具有很强的**实践指导意义**：比如 CPU 利用率低的成因、如何评估SMT收益、如何做容器编排与容错、以及云端数据长尾访问模式如何影响缓存与调度等。
 
 通过对这些问题的深入思考，读者将全面加深对大规模分布式系统中**性能瓶颈、调度与容错、容器与资源管理**等核心议题的理解与应用能力。
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
