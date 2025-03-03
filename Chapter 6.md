@@ -1,9 +1,9 @@
 # Chapter 6 Cloud access and cloud interconnection networks
 
 # 
-![已上传的图片](./assets/file-NWNw4cg5S2u7Unufrs5k3Yse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705083679.png)
+![image-20250303165153602](./assets/image-20250303165153602.png)
 
-![已上传的图片](./assets/5VC1Vlwc%3D.png)
+![image-20250303165156468](./assets/image-20250303165156468.png)
 
 # Start
 
@@ -91,13 +91,11 @@
 
 以上内容便是对“云访问与云互联网络”章节开篇及结构介绍的完整笔记。通过这些要点，读者可以对云互联网络在云计算中的地位、性能影响因素、典型技术以及后续章节的组织结构有一个全面的了解，为后续深入学习做好铺垫。
 
-
-
-![已上传的图片](./assets/file-7qPStYFK4PFtMqnExV9Tvjse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705107159.png)
-
-![已上传的图片](./assets/oWPrZmHc%3D.png)
-
 # **6.1**.1 Packet-switched networks and the Internet
+
+![image-20250303165210783](./assets/image-20250303165210783.png)
+
+![image-20250303165216453](./assets/image-20250303165216453.png)
 
 **1\. 标题：分组交换网络与互联网的基本概念及TCP/IP协议栈解析**
 
@@ -200,17 +198,18 @@
 
 以上内容就是对“6.1 分组交换网络与互联网”相关概念以及图6.1协议栈示意图的完整笔记，希望能帮助你夯实对互联网通信机制的理解，为后续云网络互联与部署的学习打好基础。
 
+# 6.1.2 **Packet-switched networks and the Internet**
 
+![image-20250303165225542](./assets/image-20250303165225542.png)
 
-![已上传的图片](./assets/XtrGM3Npx7Hbeh62xXuyow4%3D.png)
+![image-20250303165228631](./assets/image-20250303165228631.png)
 
-![已上传的图片](./assets/NtZyI%3D.png)
-
-![已上传的图片](./assets/file-4ySKpiJ3mzMSivoyXKpcQCse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705181194.png)
+![image-20250303165239830](./assets/image-20250303165239830.png)
 
 ![已上传的图片](./assets/file-HDEz7Rbhm4S2ouL4GfiMQ9se=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705185681.png)
 
-# 6.1.2 **Packet-switched networks and the Internet**
+
+
 已推理，持续 5 秒
 
 **1\. 标题：互联网“沙漏”体系结构、IP地址分配与传输层协议详解**
@@ -302,15 +301,15 @@
 
 以上就是对“互联网‘沙漏’模型、IP/DHCP机制以及TCP/UDP在传输层所扮演角色”的详细笔记。借助此内容，读者应能更好地理解互联网在网络层与传输层的设计原则和技术细节，为学习云互联网络及后续更高阶的网络应用打下坚实基础。
 
-## 
-![已上传的图片](./assets/file-X524iRiMQyrPPiGLgmA5Umse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705208736.png)
-
-![已上传的图片](./assets/6czCeQ9p5Y%3D.png)
-
-![已上传的图片](./assets/hjNuSvoUfIVV7PAdNEgSrBXKCef8%3D.png)
-
 # **6.2** **Internet evolution**
-已推理，持续 几秒
+
+![image-20250303165344559](./assets/image-20250303165344559.png)
+
+![image-20250303165347590](./assets/image-20250303165347590.png)
+
+![image-20250303165350585](./assets/image-20250303165350585.png)
+
+
 
 **1\. 标题：互联网分层网络（Tier 1/2/3）、IXP与IPv6演进概览**
 
@@ -405,11 +404,11 @@
 
 
 
-![已上传的图片](./assets/file-HpbYgqTjn3z9GuYvF2Cxnkse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705242136.png)
+![image-20250303165445090](./assets/image-20250303165445090.png)
 
-![已上传的图片](./assets/PyD15SxhvSMjUHbm%2BCgEPc%3D.png)
+![image-20250303165447174](./assets/image-20250303165447174.png)
 
-![已上传的图片](./assets/jqjtYFC2eiKkQ%3D.png)
+![image-20250303165450265](./assets/image-20250303165450265.png)
 
 # **6.3** **TCP congestion control**
 
@@ -549,13 +548,15 @@ $$
 
 
 
-![已上传的图片](./assets/Xc%2BwQnLhNzujafmeZwGH%2BklnobIRwBHfwxkjbs%3D.png)
+# **6.4** **Content-centric networks; named data networks (R)**
+
+![image-20250303165506448](./assets/image-20250303165506448.png)
 
 ![已上传的图片](./assets/file-MRaJRFS2cpiMoNGuBCFi66se=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705289685.png)
 
-![已上传的图片](./assets/u3wAUK2w%2B0jnXynQNoN0PGWwY0Y%2BK8M%3D.png)
+![image-20250303165509833](./assets/image-20250303165509833.png)
 
-# **6.4** **Content-centric networks; named data networks (R)**
+
 
 **1\. 标题：面向内容的网络（Content-Centric Networks）与命名数据网络（Named Data Networks, NDN）的概念与架构解析**
 
@@ -655,16 +656,15 @@ $$
 
 以上内容即为对“6.4 面向内容网络；命名数据网络”章节的完整解析笔记，帮助读者理解为何 NDN 以及更多信息中心网络 (ICN) 的设计可能成为下一代互联网的重要发展方向。
 
-
-
-![已上传的图片](./assets/t7cBxJGMxniL9ELzEqgwDE1wjoaA%3D.png)
-
-![已上传的图片](./assets/file-7a93pga35iEEcHau25RR9Qse=2025-02-28T02%3A43%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705345643.png)
-
-![已上传的图片](./assets/file-UcTbDZ5HZBDkhiCYGfM6TBse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705349987.png)
-
 # **6.5** **Software-defined networks; SD-WAN**
-Razonado sobre red de comunicaciones，持续 几秒
+
+![image-20250303165541530](./assets/image-20250303165541530.png)
+
+![image-20250303165544579](./assets/image-20250303165544579.png)
+
+![image-20250303165547420](./assets/image-20250303165547420.png)
+
+
 
 **1\. 标题：软件定义网络 (SDN) 与软件定义广域网 (SD-WAN) 的概念与架构解析**
 
@@ -747,19 +747,17 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上就是对“6.5 软件定义网络；SD-WAN”内容的完整笔记。通过这些知识点，读者可以更好地理解现代网络从传统硬件驱动走向软件可编程化的趋势，以及在广域网场景中实现网络弹性与成本优化的具体技术路线。
 
-
-
-![已上传的图片](./assets/file-83QphTed4PAu7iD3EsGE8zse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705402349.png)
-
-![已上传的图片](./assets/3u2KbWDG8UNYvisntcN0fR7XRMlV2PTo%3D.png)
-
-![已上传的图片](./assets/D7dAAscMNNmX0FQrWRX2Yk%3D.png)
-
-![已上传的图片](./assets/file-2NyUL6p69s8zqJvX91kSjNse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705420991.png)
-
-![已上传的图片](./assets/file-Hx9VGRngTs9gS4rz9LcGRfse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705425914.png)
-
 # **6.6** **Interconnection networks for computer clouds**
+
+![image-20250303165605983](./assets/image-20250303165605983.png)
+
+![image-20250303165609391](./assets/image-20250303165609391.png)
+
+![image-20250303165612187](./assets/image-20250303165612187.png)
+
+![image-20250303165617644](./assets/image-20250303165617644.png)
+
+![image-20250303165621061](./assets/image-20250303165621061.png)
 
 **1\. 标题：云计算环境下的互连网络概述：拓扑结构、路由与流控设计**
 
@@ -886,13 +884,13 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上即为“6.6 计算机云互连网络”之详细笔记，通过对各种经典拓扑与云环境下的大规模网络设计要点的介绍，相信能帮助我们更好地理解数据中心内部及超级计算机互连网络的性能与结构设计原理。
 
-
-
-![已上传的图片](./assets/m9EYGDT2rNsHjnHVpGv5NOTZS8%3D.png)
-
-![已上传的图片](./assets/file-Dw9HvpcN4GUJ68jHYMnmLMse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705489460.png)
-
 # **6.7** **Multistage interconnection networks**
+
+![image-20250303165632353](./assets/image-20250303165632353.png)
+
+![image-20250303165635767](./assets/image-20250303165635767.png)
+
+
 
 **1\. 标题：多级互连网络（Multistage Interconnection Networks）及其典型拓扑（Clos、Butterfly、Flattened Butterfly）**
 
@@ -974,17 +972,17 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上即为“6.7 多级互连网络”的完整笔记，希望能帮助你了解不同拓扑在大规模并行及云数据中心环境中的应用与设计考量。
 
-
-
-![已上传的图片](./assets/file-6CnAgUusHjhqV58hBb8kQhse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705542794.png)
-
-![已上传的图片](./assets/E%3D.png)
-
-![已上传的图片](./assets/MfPZKF0Wpuq9MigFFCE%3D.png)
-
-![已上传的图片](./assets/file-8Pg5P84kMCq68Vyj7BmC9use=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705559152.png)
-
 # **6.8** **InfiniBand and Myrinet**
+
+![image-20250303165655116](./assets/image-20250303165655116.png)
+
+![image-20250303165653033](./assets/image-20250303165653033.png)
+
+![image-20250303165658559](./assets/image-20250303165658559.png)
+
+![image-20250303165701254](./assets/image-20250303165701254.png)
+
+
 
 **1\. 标题：高性能互连网络之 InfiniBand 与 Myrinet 概述**
 
@@ -1072,15 +1070,17 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上就是“6.8 InfiniBand 与 Myrinet”章节的完整笔记，通过这些内容，读者能够了解高性能互连网络如何在大型并行系统与云环境中显著提升数据传输效率与可扩展性。
 
-![已上传的图片](./assets/file-2crpngBh65icWVgdULaPUBse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705578201.png)
+# **6.9** **Storage area networks and the Fibre Channel**
 
-![已上传的图片](./assets/EdUJRnwUkQ62E%3D.png)
+![image-20250303165724319](./assets/image-20250303165724319.png)
+
+![image-20250303165730354](./assets/image-20250303165730354.png)
 
 ![已上传的图片](./assets/zm9M8dyWVA86jao2EcX5s4BlKkyqKtrMDs%3D.png)
 
-![已上传的图片](./assets/file-4Mn78u732LE8JzF7rCfY7jse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705589330.png)
+![image-20250303165735221](./assets/image-20250303165735221.png)
 
-# **6.9** **Storage area networks and the Fibre Channel**
+
 
 **1\. 标题：存储区域网络（SAN）与 Fibre Channel（FC）体系结构全面解析**
 
@@ -1200,18 +1200,17 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上内容即为“6.9 存储区域网络（SAN）与光纤通道（Fibre Channel）”的完整笔记。通过这些要点，读者可以更好地掌握在企业级和云端环境中构建大规模高性能存储网络的关键技术与实现方式。
 
-## 
-![已上传的图片](./assets/file-4xTb617AR8EXXRBtrVaAPVse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705608957.png)
-
-![已上传的图片](./assets/4yFlGW%2BGwElc%3D.png)
-
-![已上传的图片](./assets/pKF9qVtMpj0qmzvyJNQXpSQqA%3D.png)
-
-![已上传的图片](./assets/aSRNryLiQUI%3D.png)
-
-![已上传的图片](./assets/file-83wf7y19E5QDtuhwAep2mgse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705633102.png)
-
 # **6.10** **Scalable data center communication architectures**
+
+![image-20250303165756440](./assets/image-20250303165756440.png)
+
+![image-20250303165758467](./assets/image-20250303165758467.png)
+
+![image-20250303165800584](./assets/image-20250303165800584.png)
+
+![image-20250303165805494](./assets/image-20250303165805494.png)
+
+![image-20250303165808607](./assets/image-20250303165808607.png)
 
 **1\. 标题：可扩展数据中心网络（DCN）架构：三层与Fat-Tree设计分析**
 
@@ -1295,16 +1294,15 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 至此，“6.10 可扩展数据中心通信架构”笔记完毕。读者应能理解为什么 Fat-Tree 能在云计算数据中心中成为常见的网络拓扑，以及它如何实现高扩展性与高性能。
 
-## 
-![已上传的图片](./assets/file-BLguoLdiYTeRkW5L9NSZN1se=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705660081.png)
-
-![已上传的图片](./assets/file-CCNEYvL8NeAXBE6PQBczgZse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705703610.png)
-
-![已上传的图片](./assets/DtUUV5Nnb5FJ%2BlzVimNsBmIjWairjHG%2Bi4IMAw%3D.png)
-
-![已上传的图片](./assets/%2BtL2n0%3D.png)
-
 # **6.11** **Network resource management algorithms (R)**
+
+![image-20250303165826191](./assets/image-20250303165826191.png)
+
+![image-20250303165823549](./assets/image-20250303165823549.png)
+
+![image-20250303165821133](./assets/image-20250303165821133.png)
+
+![image-20250303165818098](./assets/image-20250303165818098.png)
 
 **1\. 标题：云网络资源管理与调度算法：FCFS、Fair Queuing、SFQ 与 CBQ 详解**
 
@@ -1408,18 +1406,17 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上即为“6.11 网络资源管理算法”的完整笔记。从这些调度思想和算法中，我们能更好地理解云计算网络中 QoS 保障和公平分配背后的原理与实现方式。
 
-## 
-![已上传的图片](./assets/8nWEXI%3D.png)
-
-![已上传的图片](./assets/file-SADPciZSeu4eBYi8wKeHoRse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705749418.png)
-
-![已上传的图片](./assets/WqinbLrY1hxaZaxts%3D.png)
-
-![已上传的图片](./assets/k7mars%3D.png)
-
-![已上传的图片](./assets/file-UDr17ZQsxR9RoZdDQgKoppse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705764848.png)
-
 # **6.12** **Content delivery networks**
+
+![image-20250303170003433](./assets/image-20250303170003433.png)
+
+![image-20250303170006147](./assets/image-20250303170006147.png)
+
+![image-20250303170009114](./assets/image-20250303170009114.png)
+
+![image-20250303170011920](./assets/image-20250303170011920.png)
+
+![image-20250303170014849](./assets/image-20250303170014849.png)
 
 **1\. 标题：内容分发网络（CDN）的架构与关键技术**
 
@@ -1553,11 +1550,13 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上便是“6.12 内容分发网络 (CDN)” 的完整笔记，通过这些要点，读者应能明白 CDN 如何在云端与全球网络范围内实现内容分发的加速与高可用，为现代互联网应用带来更佳的用户体验。
 
-![已上传的图片](./assets/OiX4IE%3D.png)
 
-![已上传的图片](./assets/file-1yQaH8EkMtJB25fiJt6at4se=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705827080.png)
 
 # **6.13** **Vehicular ad hoc networks**
+
+![image-20250303170024273](./assets/image-20250303170024273.png)
+
+![image-20250303170021862](./assets/image-20250303170021862.png)
 
 **1\. 标题：车载自组织网络（VANET）概述及其在智能交通中的应用**
 
@@ -1655,11 +1654,11 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 以上就是“6.13 车载自组织网络 (VANET)” 的详细笔记。在车联网和自动驾驶飞速发展的今天，VANET 已成为智能交通系统不可或缺的一部分，其“内容中心式”的信息分发理念与高动态网络特点，为现代通信和云计算领域带来了新的研究与实践挑战。
 
-
-
-![已上传的图片](./assets/file-4hFCt8VFad3Z6HNr9E5eDsse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705854832.png)
-
 # **6.14** **Further readings**
+
+![image-20250303170122171](./assets/image-20250303170122171.png)
+
+
 
 **1\. 标题：延伸阅读与相关文献推荐**
 
@@ -1719,13 +1718,14 @@ Razonado sobre red de comunicaciones，持续 几秒
 
 **至此，“6.14 Further readings”笔记完成**。读者可结合这些文献参考，在云计算网络和大规模互连领域获取更深入、更全面的技术与研究视角。
 
-
-
-![已上传的图片](./assets/file-9cqV7pafBtPcXvYc7MRCbYse=2025-02-28T02%3A43%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3D1740705910639.png)
-
-![已上传的图片](./assets/s9vsX9Sfjp6vLcUYTo%3D.png)
-
 # **6.15** **Exercises and problems**
+
+![image-20250303170135280](./assets/image-20250303170135280.png)
+
+![image-20250303170133624](./assets/image-20250303170133624.png)
+
+
+
 以下是对图中 **6.15 Exercises and problems** 列出的每道习题的详解思路与相关上下文分析，帮助读者更好地理解与作答。请注意，这些并非唯一答案，更多是提供解题思路、关键知识点以及与之前章节内容的联系。
 
 * * *
@@ -1954,5 +1954,4 @@ Razonado sobre red de comunicaciones，持续 几秒
     *   …等等
 
 利用前述章节内容（如 6.1~6.14）和这些参考文献，可为每道题目提供更多论据与思路。祝学习愉快！
-
 

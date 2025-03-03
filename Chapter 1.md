@@ -4,11 +4,11 @@
 
 # Start
 
-![已上传的图片](./assets/MZ3%2BEjMGm1UXMpvsgYwahUxJr8gcag%3D.png)
+![image-20250303165010783](./assets/image-20250303165010783.png)
 
-![已上传的图片](./assets/file-H87ip5xqYran7qiqrFPiFbse=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165013396](./assets/image-20250303165013396.png)
 
-![已上传的图片](./assets/QMiI1EzIAHVWnt7ni3XIOJY%3D.png)
+![image-20250303165016466](./assets/image-20250303165016466.png)
 
 
 
@@ -228,15 +228,15 @@
 以上即为根据四张课件截图所做的详细笔记汇总与分析。通过这些内容，读者能够初步掌握云计算的核心理念、发展历程、技术特点以及在大规模应用层面面临的挑战与机遇。若有任何进一步疑问或希望更深入了解的细节，可以再行讨论或补充。
 
 # **1.1** **Cloud computing, an old idea whose time has come**
-![已上传的图片](./assets/file-3Yndm1wPEBrWJ2XmpBH2Cise=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165022944](./assets/image-20250303165022944.png)
 
-![已上传的图片](./assets/file-GL6jPsdQZ3kYdG2HFRySeSse=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165026821](./assets/image-20250303165026821.png)
 
-![已上传的图片](./assets/ZM%3D.png)
+![image-20250303165030026](./assets/image-20250303165030026.png)
 
-![已上传的图片](./assets/file-PrH3bowKrWDk7UGtuctYzdse=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165038545](./assets/image-20250303165038545.png)
 
-![已上传的图片](./assets/file-5JxSBLHS2Q4tk3iKrf5Ri6se=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165040908](./assets/image-20250303165040908.png)
 
 
 
@@ -459,7 +459,7 @@
 以上即为本次课件截图所涵盖内容的详细笔记与分析。通过本笔记，读者可对云计算从概念到实践的前因后果以及当前面临的问题有较为系统的认识。后续若有更多资料，可将其与本笔记进行联系，加深对云计算的全面理解。
 
 # **1.2** **Energy use and ecological impact of cloud computing**
-![已上传的图片](./assets/file-M55SReBrMqwNHzoR8bnkKnse=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165046708](./assets/image-20250303165046708.png)
 
 ![已上传的图片](./assets/h2GXShMDVWqedOvgVxsJy2dhOdUax30%3D.png)
 
@@ -585,9 +585,9 @@
 通过以上笔记，读者应能较全面地理解云计算在能源消耗与生态影响方面的现状、趋势与改进方向。云数据中心的绿色化与可持续发展是一项长期工程，既需要技术突破，也需要产业与社会的协同合作。
 
 # **1.3** **Ethical issues in cloud computing**
-![已上传的图片](./assets/W2z7vBjukN530iTbJVY%3D.png)
+![image-20250303165052997](./assets/image-20250303165052997.png)
 
-![已上传的图片](./assets/file-KDHyNT7qCLyGFuwsnozAs3se=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![](./assets/image-20250303165105872.png)
 
 
 
@@ -715,9 +715,9 @@
 通过以上笔记，读者可对云计算在伦理、隐私、安全、问责等方面面临的问题形成概念化理解。随着技术与云服务规模的持续扩张，这些问题仍将不断演进，需要行业、法律、社会各界共同关注与制定合理的规范和治理机制。
 
 # **1.4** **Factors affecting cloud service availability**
-![已上传的图片](./assets/kzw%3D.png)
+![image-20250303165111790](./assets/image-20250303165111790.png)
 
-![已上传的图片](./assets/file-UP4hYTGUqcc6QjGkyNBPaMse=2025-03-03T01%3A48%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165113461](./assets/image-20250303165113461.png)
 
 
 
@@ -844,9 +844,9 @@
 通过以上笔记，读者可以对云计算服务可用性所面临的主要风险、典型实例、成因分析及基本应对策略形成全面而深入的理解。
 
 # **1.5** **Network-centric computing and network-centric content**
-![已上传的图片](./assets/JNTIXHxhw7I5CXrJCkkdyW4%3D.png)
+![image-20250303165117067](./assets/image-20250303165117067.png)
 
-![已上传的图片](./assets/file-Jct2w2rWAS85dXHyNcE5mJse=2025-03-03T01%3A48%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303165118882](./assets/image-20250303165118882.png)
 
 
 
@@ -975,5 +975,4 @@
 * * *
 
 通过上述笔记，读者应能清晰认识到网络中心计算与内容的概念、主要特性，以及在当今云计算环境下所面临的技术与管理挑战。
-
 
