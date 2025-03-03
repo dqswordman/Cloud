@@ -4,9 +4,9 @@
 
 # START
 
-![img](./assets/V6SQIZY6ABQEM.png)
+![image-20250303170833904](./assets/image-20250303170833904.png)
 
-![img](./assets/46VAIZY6AAABK.png)
+![image-20250303170836839](./assets/image-20250303170836839.png)
 
 
 
@@ -173,11 +173,11 @@
 
 
 
-![img](./assets/NJ3AKZY6ABAGQ.png)
+![image-20250303170843614](./assets/image-20250303170843614.png)
 
-![image-20250303085253778](./assets/image-20250303085253778-1740966775746-1.png)
+![image-20250303170846367](./assets/image-20250303170846367.png)
 
-![image-20250303085304487](./assets/image-20250303085304487-1740966786665-3.png)
+![image-20250303170849092](./assets/image-20250303170849092.png)
 
 **第3.1节：计算机体系结构概念**
 
@@ -325,7 +325,7 @@
 
 # 3.1.2 Computer architecture concepts
 
-![img](./assets/54MAMZY6ACAAW.png)
+![image-20250303170854944](./assets/image-20250303170854944.png)
 
 
 
@@ -499,11 +499,11 @@ $$
 
 # 3.2.1 Grand architectural complications
 
-![img](./assets/O7ZQMZY6ADAHC.png)
+![image-20250303170859929](./assets/image-20250303170859929.png)
 
-![img](./assets/P76AMZY6ADQAU.png)
+![image-20250303170905350](./assets/image-20250303170905350.png)
 
-![img](./assets/SEBAOZY6ACACC.png)
+![image-20250303170908386](./assets/image-20250303170908386.png)
 
 
 
@@ -647,15 +647,15 @@ $$
 以上即为“3.2 Grand architectural complications”及缓存层次结构的完整笔记和详细解读。通过对内存延迟、缓存映射及替换策略的认识，可以理解现代 CPU 如何在硬件层面努力满足流水线对高效访存的需求，并以此保障整体程序执行效率与正确性。
 
 # 3.2.2 Grand architectural complications
-![img](./assets/K3LAOZY6ABQEM.png)
+![image-20250303170914418](./assets/image-20250303170914418.png)
 
-![img](./assets/JTOQOZY6ACAFC.png)
+![image-20250303170917955](./assets/image-20250303170917955.png)
 
-![img](./assets/AHXQOZY6ABQA2.png)
+![image-20250303170922968](./assets/image-20250303170922968.png)
 
-![img](./assets/XX2AOZY6ACAD6.png)
+![image-20250303170926281](./assets/image-20250303170926281.png)
 
-![img](./assets/3D5AOZY6ACQD4.png)
+![image-20250303170929181](./assets/image-20250303170929181.png)
 
 **3.2节后半部分：AMAT优化、乱序执行与分支预测（含Meltdown与Spectre安全漏洞）**
 
@@ -824,13 +824,13 @@ $$
 以上即为本节课件“AMAT优化、乱序执行和分支预测（Meltdown/Spectre）”的完整笔记。通过对这些概念的系统学习，可深刻认识现代CPU在性能和安全两方面面临的关键挑战与技术细节。
 
 # 3.3 ARM architecture
-![img](./assets/47GQQZY6ADAEO.png)
+![image-20250303170936935](./assets/image-20250303170936935.png)
 
-![img](./assets/AHLQQZY6ADQBW.png)
+![image-20250303170939352](./assets/image-20250303170939352.png)
 
-![img](./assets/3HOQQZY6ABAEA.png)
+![image-20250303170941606](./assets/image-20250303170941606.png)
 
-![img](./assets/ILSAQZY6ACQGI.png)
+![image-20250303170944176](./assets/image-20250303170944176.png)
 
 **ARM体系结构概览：从移动终端到云端的RISC微架构**
 
@@ -963,11 +963,11 @@ $$
 
 
 # 3.4 SIMD architectures
-![img](./assets/J7EASZY6ACADE.png)
+![image-20250303170954488](./assets/image-20250303170954488.png)
 
-![img](./assets/3THASZY6ABQAO.png)
+![image-20250303170956830](./assets/image-20250303170956830.png)
 
-![img](./assets/CPLASZY6ADAEK.png)
+![image-20250303171000320](./assets/image-20250303171000320.png)
 
 
 
@@ -1093,11 +1093,11 @@ $$
 
 # 3.6 Tensor processing units
 
-![img](./assets/MDVAUZY6ABQEM.png)
+![image-20250303171005998](./assets/image-20250303171005998.png)
 
-![img](./assets/PTXQUZY6ABAB4.png)
+![image-20250303171010323](./assets/image-20250303171010323.png)
 
-![img](./assets/732QUZY6AAAFW.png)
+![image-20250303171015418](./assets/image-20250303171015418.png)
 
 
 
@@ -1213,11 +1213,11 @@ $$
 
 # 3.5 Graphics processing units
 
-![img](./assets/7ZMQUZY6ADAD2.png)
+![image-20250303171020937](./assets/image-20250303171020937.png)
 
-![img](./assets/F5SAUZY6ABAHM.png)
+![image-20250303171022694](./assets/image-20250303171022694.png)
 
-![img](./assets/BJUQUZY6ABQBI.png)
+![image-20250303171026475](./assets/image-20250303171026475.png)
 
 
 
@@ -1322,9 +1322,9 @@ $$
 
 
 # 3.7 Systems on a chip
-![img](./assets/E3ZQWZY6ACAFC.png)
+![image-20250303171029931](./assets/image-20250303171029931.png)
 
-![img](./assets/LP3QWZY6ABQEM.png)
+![image-20250303171032510](./assets/image-20250303171032510.png)
 
 
 
@@ -1421,9 +1421,9 @@ $$
 
 # 3.8 Data, thread-level, and task-level parallelism
 
-![img](./assets/RBPAYZY6ACABS.png)
+![image-20250303171037487](./assets/image-20250303171037487.png)
 
-![img](./assets/UJTAYZY6ACAEE.png)
+![image-20250303171040989](./assets/image-20250303171040989.png)
 
 ![img](./assets/WNXQYZY6AAQBU.png)
 
@@ -1550,9 +1550,9 @@ $$
 
 
 # 3.9 Speedup, Amdhal’s law, and scaled speedup
-![img](./assets/DXIQ2ZY6ADQEE.png)
+![image-20250303171044820](./assets/image-20250303171044820.png)
 
-![img](./assets/ATLQ2ZY6ADQH4.png)
+![image-20250303171050257](./assets/image-20250303171050257.png)
 
 
 
@@ -1675,11 +1675,11 @@ $$
 
 # 3.10 Multicore processor speedup
 
-![img](./assets/3BEA4ZY6ABQC2.png)
+![image-20250303171056391](./assets/image-20250303171056391.png)
 
-![img](./assets/IBIA4ZY6ABAFM.png)
+![image-20250303171100059](./assets/image-20250303171100059.png)
 
-![img](./assets/CZJQ4ZY6ABAFM.png)
+![image-20250303171105180](./assets/image-20250303171105180.png)
 
 
 
@@ -1793,11 +1793,11 @@ $$
 
 
 # 3.11 From supercomputers to distributed systems
-![img](./assets/TLXA4ZY6ADADE.png)
+![image-20250303171114673](./assets/image-20250303171114673.png)
 
-![img](./assets/64LA6ZY6ABQCA.png)
+![image-20250303171117012](./assets/image-20250303171117012.png)
 
-![img](./assets/GQNA6ZY6ACADE.png)
+![image-20250303171120275](./assets/image-20250303171120275.png)
 
 **3.11 从超级计算机到分布式系统**
 
@@ -1902,13 +1902,13 @@ $$
 
 # 3.12.1 Modularity. Soft modularity versus enforced modularity
 
-![img](./assets/G2ZQ6ZY6ADQAA.png)
+![image-20250303171125136](./assets/image-20250303171125136.png)
 
-![img](./assets/77BA6ZY6ABQEM.png)
+![image-20250303171128028](./assets/image-20250303171128028.png)
 
-![img](./assets/R3FA6ZY6ABQHI.png)
+![image-20250303171130977](./assets/image-20250303171130977.png)
 
-![img](./assets/E7HQ6ZY6ADAFK.png)
+![image-20250303171133514](./assets/image-20250303171133514.png)
 
 **3.12 模块化：软模块化与强制（硬）模块化**  
 本节课件讨论了\*\*模块化（Modularity）\*\*在软件与系统设计中的重要性，特别对分布式系统而言，如何通过清晰的模块边界与接口降低复杂度、提高可维护性与可拓展性。文中区分了“**软模块化（Soft Modularity）**”与“**强制模块化（Enforced Modularity）**”，并阐述了在分布式体系中常见的客户端-服务器（Client–Server）范式、远程过程调用（RPC）等机制如何体现模块化原则。以下为具体内容笔记。
@@ -2043,9 +2043,9 @@ $$
 
 # 3.12.2 Modularity. Soft modularity versus enforced modularity
 
-![img](./assets/AR5BAZY6ABQBG.png)
+![image-20250303171143608](./assets/image-20250303171143608.png)
 
-![img](./assets/LJ7RAZY6ABQC2.png)
+![image-20250303171146583](./assets/image-20250303171146583.png)
 
 
 
@@ -2156,13 +2156,13 @@ $$
 
 
 # 3.13 Layering and hierarchy
-![img](./assets/FYIBCZY6ADQH2.png)
+![image-20250303171154845](./assets/image-20250303171154845.png)
 
-![img](./assets/OIORCZY6AAAH2.png)
+![image-20250303171152952](./assets/image-20250303171152952.png)
 
-![img](./assets/NURBCZY6ACAGW.png)
+![image-20250303171200206](./assets/image-20250303171200206.png)
 
-![img](./assets/GUTRCZY6ADACQ.png)
+![image-20250303171203082](./assets/image-20250303171203082.png)
 
 **3.13 分层与层次结构（Layering and Hierarchy）**
 
@@ -2272,11 +2272,11 @@ $$
 
 # 3.14 Peer-to-peer systems
 
-![img](./assets/2OQRCZY6ACABS.png)
+![image-20250303171211605](./assets/image-20250303171211605.png)
 
-![img](./assets/ICTRCZY6AAAGY.png)
+![image-20250303171214108](./assets/image-20250303171214108.png)
 
-![img](./assets/FWWRCZY6AAQDO.png)
+![image-20250303171216881](./assets/image-20250303171216881.png)
 
 
 
@@ -2394,11 +2394,11 @@ $$
 
 # 3.15 Large-scale systems
 
-![img](./assets/TQRREZY6ACAAE.png)
+![image-20250303171222702](./assets/image-20250303171222702.png)
 
-![img](./assets/V4VBEZY6AAQEI.png)
+![image-20250303171224499](./assets/image-20250303171224499.png)
 
-![img](./assets/VYXREZY6ABQGK.png)
+![image-20250303171227186](./assets/image-20250303171227186.png)
 
 **3.15 大规模系统：从万维网到计算网格，再到云计算**
 
@@ -2482,9 +2482,9 @@ $$
 
 # 3.16 Composability bounds and scalability (R)
 
-![img](./assets/TKABEZY6ADQBW.png)
+![image-20250303171230632](./assets/image-20250303171230632.png)
 
-![img](./assets/JGEREZY6ABAFK.png)
+![image-20250303171232929](./assets/image-20250303171232929.png)
 
 **3.16 组合性极限与可伸缩性（Composability Bounds and Scalability）**
 
@@ -2599,9 +2599,9 @@ $$
 
 # 3.17 Distributed computing fallacies and the CAP theorem
 
-![img](./assets/7LQBEZY6ADAEO.png)
+![image-20250303171239661](./assets/image-20250303171239661.png)
 
-![img](./assets/T3SBEZY6ACAAW.png)
+![image-20250303171243167](./assets/image-20250303171243167.png)
 
 **3.17 分布式计算的谬误（Fallacies）与CAP定理**
 
@@ -2701,24 +2701,11 @@ $$
 
 # 3.18 Blockchain technology and applications
 
-![img](./assets/DIMRGZY6ACAB4.png)
+![image-20250303171337994](./assets/image-20250303171337994.png)
 
-![img](./assets/CYRBGZY6ADAGQ.png)
-
-
+![image-20250303171343408](./assets/image-20250303171343408.png)
 
 
-
-## 
-
-
-
-
-
-
-
-## Prompt:
-思考 一秒
 
 **3.18 区块链技术与应用**
 
@@ -2841,11 +2828,11 @@ $$
 
 # 3.19 History notes and further readings
 
-![img](./assets/4S3RGZY6ACQAC.png)
+![image-20250303171412856](./assets/image-20250303171412856.png)
 
-![img](./assets/VC7BGZY6ACQFG.png)
+![image-20250303171415832](./assets/image-20250303171415832.png)
 
-![img](./assets/TPCRGZY6ADAGG.png)
+![image-20250303171419036](./assets/image-20250303171419036.png)
 
 **3.19 历史回顾与延伸阅读**
 
@@ -2987,7 +2974,7 @@ $$
 
 # 3.20 Exercises and problems
 
-![img](./assets/VFNRIZY6ACQBW.png)
+![image-20250303171424176](./assets/image-20250303171424176.png)
 
 
 

@@ -2,9 +2,9 @@
 
 # Start
 
-![已上传的图片](./assets/xEPcZr4JCvxl209ZY31E%3D.png)
+![image-20250303170421679](./assets/image-20250303170421679.png)
 
-![已上传的图片](./assets/file-H59dLFcbY8aJ2xrwXFJ133se=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170419661](./assets/image-20250303170419661.png)
 
 
 
@@ -102,15 +102,15 @@
 *   本次图片内容均清晰可见，核心文字与图示信息已尽量完整解释，无明显缺失。若有更多细节或脚注(如文中脚注提及比特币挖矿对CO₂排放的影响等)需要进一步展开，可在后续章节或更详细文本资料中继续探讨。
 
 # **2.1** **Cloud computing delivery models and services**
-![已上传的图片](./assets/file-9EYs8oNdXZeLKTMHGNCKjdse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170438609](./assets/image-20250303170438609.png)
 
-![已上传的图片](./assets/file-2LGsAV5XaWbFDAwgyZB7zcse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170436293](./assets/image-20250303170436293.png)
 
-![已上传的图片](./assets/file-48io6Co4YHFEjhcLrkUoVese=2025-03-01T04%3A12%3A16Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170433962](./assets/image-20250303170433962.png)
 
-![已上传的图片](./assets/file-MfpJgqEdyNWtx6sF9ESL6use=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170431534](./assets/image-20250303170431534.png)
 
-![已上传的图片](./assets/file-CZTPTMWkFdP9iBx3XAQ9BLse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170428895](./assets/image-20250303170428895.png)
 
 
 
@@ -290,15 +290,15 @@
 *   本次提供的图片和文字内容已完整解读，未发现明显无法辨识的部分。如需更深入探讨具体SaaS/PaaS/IaaS的实践案例或IaC脚本示例，可结合后续章节或更完整资料进一步学习。
 
 # **2.2**.1 **Amazon Web Services**
-![已上传的图片](./assets/61ZFCF6Xida4aPGtXdg1c2i9qgyhgY%3D.png)
+![image-20250303170455273](./assets/image-20250303170455273.png)
 
-![已上传的图片](./assets/file-AhLrjjcWtUH9ynxEpNsicWse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170452040](./assets/image-20250303170452040.png)
 
-![已上传的图片](./assets/sUXdGh6hBTVtnPnqDdo%3D.png)
+![image-20250303170449952](./assets/image-20250303170449952.png)
 
-![已上传的图片](./assets/file-G5Zc8E4N9H619VR2Z59yq3se=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170447682](./assets/image-20250303170447682.png)
 
-![已上传的图片](./assets/file-R4zX1b2sTNkddhNBTRmqjHse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170445483](./assets/image-20250303170445483.png)
 
 
 
@@ -470,13 +470,13 @@ AWS 生态仍在不断演进，后续还将进一步拓展服务范围，包括�
 *   本次图片和文本信息清晰，服务名称和功能介绍无明显缺漏。如需深度了解 AWS 上的更多高级服务或最佳实践，可在后续章节或专门的文档资料中再行探讨。
 
 # **2.2.2** **Amazon Web Services**
-![已上传的图片](./assets/file-TDNPw6udqBq1uB6Q2QQ1AGse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170514236](./assets/image-20250303170514236.png)
 
-![已上传的图片](./assets/file-RumpJ5bYUJXipdTCoLwwMmse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170511562](./assets/image-20250303170511562.png)
 
-![已上传的图片](./assets/6GFe%2BGzVrrGyf6d81yTKt2fw%3D.png)
+![image-20250303170507846](./assets/image-20250303170507846.png)
 
-![已上传的图片](./assets/Axx49%2B0JI%3D.png)
+![image-20250303170505666](./assets/image-20250303170505666.png)
 
 
 
@@ -643,13 +643,13 @@ AWS 生态仍在不断演进，后续还将进一步拓展服务范围，包括�
 *   本次图片信息与文字基本完整，无明显缺漏或无法辨识之处。如需进一步了解具体实例类型定价或各区域可用性，可参考 AWS 官方文档或管理控制台中实时更新的资源与定价信息。
 
 # **2.3** **Google Clouds**
-![已上传的图片](./assets/6I3do38Kh318Nc%3D.png)
+![image-20250303170554364](./assets/image-20250303170554364.png)
 
-![已上传的图片](./assets/file-8R3yHbn1SYxmJb26m9HwJGse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170552100](./assets/image-20250303170552100.png)
 
-![已上传的图片](./assets/DuBfgERBnzd9A4CImfRyCQnFpxAF6GxY%3D.png)
+![image-20250303170549543](./assets/image-20250303170549543.png)
 
-![已上传的图片](./assets/Cuc7nsFCvLyq7dopXEfTKdtAw%3D.png)
+![image-20250303170547012](./assets/image-20250303170547012.png)
 
 **1\. 标题与内容概括**  
 **标题：**「Google Cloud 平台：从自主硬件、Kubernetes，到 AI 与无服务器应用的全面布局」  
@@ -853,11 +853,11 @@ Google 主要集中在 IaaS（Compute Engine 等）、PaaS（App Engine 等）�
 *   截图内容已完整覆盖，无明显缺失或模糊之处。若需深入了解具体收费详情、各服务的区域可用性或更多 AI 相关 API，建议查阅 Google Cloud 官方文档以获取最新信息。
 
 # **2.4** **Microsoft Windows Azure and online services**
-![已上传的图片](./assets/fHFmD6t7yxV8kJ151lc%3D.png)
+![image-20250303170602156](./assets/image-20250303170602156.png)
 
-![已上传的图片](./assets/file-24mUcUNuBbk8r3ttCgqXApse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170559879](./assets/image-20250303170559879.png)
 
-![已上传的图片](./assets/Goz7XFv86Y7KtmnLO2UAGXyvZfPThlCHHgat8%3D.png)
+![image-20250303170558273](./assets/image-20250303170558273.png)
 
 
 
@@ -993,7 +993,7 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次截图及对应文字均已完整解读，未发现模糊或缺失部分。如需更深入了解当前 Azure 的大数据、AI、容器或其他高级功能，可参考微软最新文档（Azure Portal、Azure Docs）获取实际操作与服务更新信息。
 
 # **2.5** **IBM clouds**
-![已上传的图片](./assets/9eTyXS8MXSc1RC7OUIRwTsScqHIgi28Cq6FQXDHs%3D.png)
+![image-20250303170606753](./assets/image-20250303170606753.png)
 
 
 
@@ -1083,9 +1083,9 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   截图部分信息均清晰可见，已完整解读各要点。暂无识别或理解上的难点。如需进一步了解IBM云具体定价或容器服务的实施细节，可参考IBM Cloud官方文档或后续章节内容。
 
 # **2.6** **Cloud storage diversity and vendor lock-in**
-![已上传的图片](./assets/file-TGwyX43zBHb5oRcEDsENC7se=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170613786](./assets/image-20250303170613786.png)
 
-![已上传的图片](./assets/kkqle9E78%2BAt1CULuMwEKWWt407wg%3D.png)
+![image-20250303170612057](./assets/image-20250303170612057.png)
 
 
 
@@ -1172,11 +1172,11 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   截图文字及对应要点均已阐明，暂未发现模糊或缺失之处。如需深入了解RACS或其他跨云存储方案的技术实现，可参考原论文或进一步文献，以获取更详尽的配置细节与实验数据。
 
 # **2.7** **Cloud interoperability**
-![已上传的图片](./assets/QGgDPlxAfZ7jOL0pusDh%2BQ%3D.png)
+![image-20250303170624746](./assets/image-20250303170624746.png)
 
-![已上传的图片](./assets/YXp1z6rY8ss6oatr6iy4pxUfOHNY%3D.png)
+![image-20250303170621854](./assets/image-20250303170621854.png)
 
-![已上传的图片](./assets/8NlDKKPBAmfIDRfJReMTzMyhnVkpy0ffOpBU2uh8%3D.png)
+![image-20250303170619193](./assets/image-20250303170619193.png)
 
 
 
@@ -1283,9 +1283,9 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次截图信息与文字相对完整，已做全面解读。若想深入了解 Intercloud 的原型实践或具体标准提案，可关注 NIST、OASIS、IEEE 等标准化组织和相关研究论文，以获取更多技术细节与进展。
 
 # **2.8** **Service-level Agreements and Compliance-level Agreements**
-![已上传的图片](./assets/file-1e1PGDnF7VbnnbQppGPc42se=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170636523](./assets/image-20250303170636523.png)
 
-![已上传的图片](./assets/7TKl37Lu2UUBSHURZEQd2w%3D.png)
+![image-20250303170634039](./assets/image-20250303170634039.png)
 
 
 
@@ -1393,7 +1393,7 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   截图内容清晰，已完整解读，无明显缺失。若需更深入了解具体SLA示例或合规标准，如GDPR、HIPAA等，可参阅实际云提供商协议或行业法规文档。
 
 # **2.9** **Responsibility sharing between user and service provider**
-![已上传的图片](./assets/file-D36xPsbVVpvNfncYF5VbcTse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170640467](./assets/image-20250303170640467.png)
 
 
 
@@ -1466,11 +1466,11 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次内容清晰明了，无缺失信息。如需进一步了解安全责任模型或具体服务配置细节，可结合各大云服务商的官方文档，以获得更详尽的说明。
 
 # **2.10** **User challenges and experience**
-![已上传的图片](./assets/17%2BcM7olgokbs0eMr2HE%3D.png)
+![image-20250303170649273](./assets/image-20250303170649273.png)
 
-![已上传的图片](./assets/file-ByzEUmH3coeoioahm9V4oTse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170647213](./assets/image-20250303170647213.png)
 
-![已上传的图片](./assets/Qc30OobBtpDjdHTygz6FOsusjyn0%3D.png)
+![image-20250303170645135](./assets/image-20250303170645135.png)
 
 **1\. 标题与内容概括**  
 **标题：**「云用户所面临的挑战与经验：安全、合规、管理及专业能力之考验」  
@@ -1582,9 +1582,9 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次截图信息较为完整，所列举的用户关注点与研究调研结果均已梳理。若需获取更深入的实践经验或针对行业场景的安全解决方案，可参考各大云厂商文档与权威机构（如NIST、ENISA、CNCF）发布的云安全报告。
 
 # **2.11** **Software licensing**
-![已上传的图片](./assets/file-3whei5PSKymro2GakRqwwQse=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170654886](./assets/image-20250303170654886.png)
 
-![已上传的图片](./assets/4Xs%3D.png)
+![image-20250303170653438](./assets/image-20250303170653438.png)
 
 
 
@@ -1684,9 +1684,9 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次文本及图片信息完整，关键技术及项目（SmartLM、elasticLM）已阐释。若需更深入的技术实现或协议详情，可参考 WS-Agreement Negotiation 文档或相关研究论文及产品文档。
 
 # **2.12** **Challenges faced by cloud computing**
-![已上传的图片](./assets/TGyb6LihQ%3D.png)
+![image-20250303170702987](./assets/image-20250303170702987.png)
 
-![已上传的图片](./assets/Lmmq4%3D.png)
+![image-20250303170701014](./assets/image-20250303170701014.png)
 
 
 
@@ -1775,7 +1775,7 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 *   本次图片与文字内容已完整解析，无明显缺失或模糊之处。若需更深入了解具体分布式系统（如 Borg、Omega、Mesos、Kubernetes）或安全技术，可参照相关论文与官方文档获取更细节信息。
 
 # **2.13** **Cloud computing as a disruptive technology**
-![已上传的图片](./assets/file-HJJsiJXwqg19ou26NEs7y9se=2025-03-01T04%3A12%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C immutable%2C private&rscd=attachment%3B filename%3Dimage.png)
+![image-20250303170713129](./assets/image-20250303170713129.png)
 
 
 
@@ -1865,7 +1865,7 @@ Azure 采用“**角色（Role）**”概念来抽象不同类型的云应用进
 
 # **2.14** **Exercises and problems**
 
-![image-20250301112455322](./assets/image-20250301112455322.png)
+![image-20250303170717289](./assets/image-20250303170717289.png)
 
 **1\. 本次内容标题**  
 **「云计算复习与思考：大型分布式系统特性、服务模型对比、以及私有云与公共云迁移的探讨」**  
